@@ -1,6 +1,6 @@
 # Before ES6 - var was king! 👑
 
-### TLDR; ⚠️ DON'T USE var ⚠️
+## TLDR; ⚠️ DON'T USE var ⚠️
 
 Before ES6 (ES2015) there was only one way to declare variables and constants in JavaScript, which was using `var`.
 
