@@ -1,7 +1,7 @@
 // Instructions can be found in imperative_vs_declarative.md
 
 export function longPasswords(passwords) {
-  let longPasswords = [];
+  const longPasswords = [];
 
   passwords.forEach((password) => {
     if (password.length >= 9) {
